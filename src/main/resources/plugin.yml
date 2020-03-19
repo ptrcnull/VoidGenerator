@@ -1,0 +1,7 @@
+name: VoidGenerator
+version: ${project.version}
+main: me.ptrcnull.voidgenerator.VoidGenerator
+api-version: 1.13
+load: STARTUP
+authors: [ptrcnull]
+description: Void world generator for Spigot/Paper 1.12-1.15, open-source!
